@@ -324,8 +324,8 @@ div h2 b big {
 }
 
 .firstl li:hover {
-    color: green;
-    border: 3px solid green;
+    color: blue;
+    border: 3px solid blue;
     transition: .5s;
     cursor: col-resize 2px pointer;
 }
@@ -368,7 +368,7 @@ div h2 b big {
 
 .col-r:hover {
     border: 2px solid white;
-    box-shadow: 2px 2px 40px grey;
+    box-shadow: 2px 2px 40px royalblue;
     transition: 0.3s;
     transform: scale(1.13);
 }
