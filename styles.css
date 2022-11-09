@@ -237,7 +237,7 @@ div h2 b big {
     border-radius: 30px;
     color: white;
     transition: 0.3s;
-    box-shadow:1px 2px 10px 1px white;
+    box-shadow:0px -3px 5px white;
 }
 
 .nav > #nav-check {
